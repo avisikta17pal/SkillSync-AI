@@ -11,6 +11,14 @@
 
 </div>
 
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_App-SkillSync-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://skillsyncai-mhufxy9ro-avisikta17pals-projects.vercel.app/)
+[![Watch Demo](https://img.shields.io/badge/🎥_Watch_Demo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/NnYq6cPMQzw)
+[![GitHub Repo](https://img.shields.io/badge/💻_GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avisikta17pal/SkillSync-AI)
+
+</div>
+
 ---
 
 ## 🌟 **Why SkillSync?**
